@@ -1,11 +1,7 @@
-## suji-system
+## the suji system
 
-miinmalist set of projects that make a operating system made to experiment with bytecode VM's and language development
+minimal set of projects that build an operating system for experimenting with bytecode vms and language design
 
-## no repos, why?
-
-its not done yet
-
-## links
+## cool links
 
 TODO
